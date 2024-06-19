@@ -1,0 +1,197 @@
+.Homepage {
+    background-image: url("https://4kwallpapers.com/images/wallpapers/lamborghini-aventador-grey-dark-background-cgi-2880x1800-3459.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.badge {
+    background-image: url("https://cdn.motor1.com/images/mgl/2NEQnp/s1/1x1/lamborghini-new-logo.webp");
+    position: fixed;
+    background-size: cover;
+    top: 10px;
+    left: 10px;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.badge:hover{
+    -webkit-transition: 0.25s;
+    top: 10px;
+    left: 10px;
+    width: 65px;
+    height: 65px;
+    
+}
+
+.navbar li {
+    background-color: transparent;
+    color: white;
+    float: left;
+    position: relative;
+    left: 30px;
+    list-style: none;
+    border: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 10px;
+    font-weight: 400;
+    font-size: large;
+}
+
+.navbar li:hover {
+    background-color: rgb(35, 33, 33);
+}
+
+.navbar li:active {
+    background-color: yellow;
+}
+
+
+.q1 {
+    position: absolute;
+    font-size: 30px;
+    left: 320px;
+    top: 100px;
+    color: yellow;
+}
+
+.q2 {
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 180px;
+    left: 850px;
+}
+.q2:hover{
+    color: skyblue;
+    -webkit-transition: 0.25s;
+    font-size: 27px;
+}
+
+
+.btn {
+    background-color: transparent;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: large;
+    position: relative;
+    top: 450px;
+    left: 900px
+}
+
+.btn:hover {
+    background-color: darkgrey;
+    color: yellow;
+    border-radius: 90px;
+}
+
+.btn:active {
+
+    font-size: medium;
+}
+
+.avent {
+    background-image: url("https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/aventador/Ultimae/aven_ultimae_og.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.p2{
+    background-color: green;
+    position:  sticky;
+    color: black;
+     padding: 4px;
+     border: 3px;
+    font-size: 30px;
+    position: absolute;
+    left: 100px;
+    top: 1px;
+    font-weight: 600;
+    border-radius: 4px;
+}
+.p3{
+    background-color: whitesmoke;
+    color: black;
+    padding: 4px;
+    border: 3px;
+    font-size: 30px;
+    position: absolute;
+    left: 163px;
+    top: 1px;
+    font-weight: 600;
+    border-radius: 4px;
+
+}
+.p4{
+    background-color: red;
+    color: black;
+    padding: 4px;
+    font-size: 30px;
+    position: absolute;
+    left: 311px;
+    top: 1px;
+    font-weight: 600;
+    border-radius: 4px;
+}
+.desc1{
+    background-color: transparent;
+    text-align: justify;
+    position: relative;
+    font-size: large;
+    padding: 5px;
+    border: 40px;
+    border-radius: 20px;
+    margin: 80px;
+    top: 100px;
+
+}
+.desc1:hover{
+    background-color: gray;
+    -webkit-transition: 0.25s;
+    font-size: 20px;
+}
+
+.hur{
+    background-image: url("https://wallpaper.forfun.com/fetch/99/99cc532e5ebd27073a33daf591560172.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.h1{
+    background-color: white;
+    position: absolute;
+    font-size: 30px;
+    left: 320px;
+    top: 100px;
+    color: Black;
+
+
+}
+
+.invbody{
+    background-image: url("https://www.motorvalley.it/wp-content/uploads/2018/03/ferruccio-lamborghini.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.inv1{
+    background-color: yellow;
+    position: absolute;
+    font-size: 30px;
+    left: 320px;
+    top: 100px;
+    color: Black;
+
+}
